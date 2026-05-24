@@ -1,0 +1,8 @@
+Ubuntu/Debian/Kali Linux:
+sudo apt update && sudo apt install hashcat
+-----------------------------------------------------
+Fedora/RHEL:
+sudo dnf install hashcat
+-----------------------------------------------------
+Arch Linux:
+sudo pacman -S hashcat
